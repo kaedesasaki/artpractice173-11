@@ -52,7 +52,7 @@ for(var k=0 ; k<5 ; k++){
 }
 	
 function draw() {
-  background(158, 231, 250);
+  background(202, 185, 241);
   for(var i = 0; i<kiki.length; i++) {
     var p = kiki[i];
     if(p.position.y > height)
