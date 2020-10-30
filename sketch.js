@@ -12,7 +12,7 @@ function preload(){
     height: 1081px;
 
 function setup() {
-  createCanvas(1000,811); 
+  createCanvas(811,1000); 
   kiki = new Group();
   lala = new Group();
   star = new Group();
