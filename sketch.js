@@ -8,8 +8,7 @@ function preload(){
   cloud2 = loadImage('cloud.png');
   cloud3 = loadImage('cloud.png');
   cloud4 = loadImage('cloud.png');
-}width: 811px; 
-    height: 1081px;
+}
 
 function setup() {
   createCanvas(811,1000); 
